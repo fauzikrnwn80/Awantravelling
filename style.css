@@ -13,7 +13,7 @@ main {
 	width: 100%;
 	height: 100vh;
 	background-color: black;
-	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/background.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(background.jpg);
 	background-position: center;
 	background-size: cover;
 	padding-left: 8%;
@@ -115,19 +115,19 @@ button {
 }
 
 .card1 {
-	background-image: url(images/surabaya.jpg);
+	background-image: url(surabaya.jpg);
 }
 
 .card2 {
-	background-image: url(images/yogyakarta.jpg);
+	background-image: url(yogyakarta.jpg);
 }
 
 .card3 {
-	background-image: url(images/padang.jpg);
+	background-image: url(padang.jpg);
 }
 
 .card4 {
-	background-image: url(images/bali.jpg);
+	background-image: url(bali.jpg);
 }
 
 .card:hover {
